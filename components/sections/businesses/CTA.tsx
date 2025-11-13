@@ -2,7 +2,7 @@
 const ctaConfig = {
   title: "Get Started: Tailored Solutions for Every MSME",
   description:
-    "Whether you make, move, serve, or sell — AssuredPay is built for your business model. Get in touch to see a demo, or sign up and start transforming your payments today.",
+    "Whether you make, move, serve, or sell — TrustPay is built for your business model. Get in touch to see a demo, or sign up and start transforming your payments today.",
   buttons: [
     {
       id: 1,

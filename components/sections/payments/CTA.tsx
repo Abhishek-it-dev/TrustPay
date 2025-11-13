@@ -12,7 +12,7 @@ const CTA = () => {
           Ready to Stop Worrying About Payments?
         </h2>
         <p className="text-sm text-gray-100 mb-6">
-          Let AssuredPay’s Assured Payment feature transform your MSME’s growth
+          Let TrustPay’s Trust Payment feature transform your MSME’s growth
           and bring peace of mind.
         </p>
 

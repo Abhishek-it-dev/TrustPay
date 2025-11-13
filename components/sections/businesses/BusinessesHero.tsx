@@ -23,11 +23,11 @@ const BusinessesHero = () => {
        
         <div className="lg:w-1/2 text-center lg:text-left space-y-4">
           <h1 className="text-4xl text-white lg:text-5xl font-bold">
-            AssuredPay for Every Kind of Business
+            TrustPay for Every Kind of Business
           </h1>
           <p className="text-lg text-gray-200 leading-relaxed">
             Modern Indian businesses have diverse needs—but all need reliable
-            payments, better working capital, and digital trust. AssuredPay
+            payments, better working capital, and digital trust. TrustPay
             provides customized payment assurance and receivable management
             solutions for manufacturers, traders, distributors, service
             providers, importers, and eCommerce.

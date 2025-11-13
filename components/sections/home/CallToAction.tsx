@@ -1,7 +1,7 @@
 export const callToActionConfig = {
   title: "Ready to Transform Your MSME Payments?",
   description:
-    "Say goodbye to delayed payments and cash flow stress. Join AssuredPay—India’s most trusted MSME payment assurance platform.",
+    "Say goodbye to delayed payments and cash flow stress. Join TrustPay—India’s most trusted MSME payment assurance platform.",
   buttons: [
     {
       id: 1,

@@ -21,7 +21,7 @@ const RealLifeExample = () => {
           <div className="bg-white rounded-xl shadow-sm px-8 py-6 max-w-2xl text-gray-700 leading-relaxed">
             <p className="text-blue-700 mb-3">
               “Earlier, my working capital was always stuck in unpaid invoices.
-              Now, I use AssuredPay’s Assured Receivables to run my factory
+              Now, I use TrustPay’s Trust Receivables to run my factory
               without any loans or overdraft. I’ve saved lakhs in interest costs
               and grown my business by 30% in a year.”
             </p>

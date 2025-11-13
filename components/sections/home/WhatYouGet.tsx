@@ -8,21 +8,21 @@ import {
 } from "lucide-react";
 
 const whatYouGetConfig = {
-  title: "What Do You Get with AssuredPay",
+  title: "What Do You Get with TrustPay",
   items: [
     {
       id: 1,
       icon: ShieldCheck,
-      title: "Assured Receivables",
+      title: "Trust Receivables",
       description:
         "Get paid, guaranteed. Your incoming payments are verified and secured, so you never miss a due.",
     },
     {
       id: 2,
       icon: CreditCard,
-      title: "Assured Payments",
+      title: "Trust Payments",
       description:
-        "Provide confidence to your suppliers and business partners by making payments through AssuredPay.",
+        "Provide confidence to your suppliers and business partners by making payments through TrustPay.",
     },
     {
       id: 3,

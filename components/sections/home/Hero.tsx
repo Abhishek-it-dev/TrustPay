@@ -1,6 +1,6 @@
 export const heroConfig = {
   sectionId: "hero",
-  title: "Smarter, Assured Payments for MSMEs in India",
+  title: "Smarter, Trust Payments for MSMEs in India",
   subtitle:
     "Transform the way your business handles receivables and payments. Experience secure, on-time B2B payments, interest-earning fund management, and a trusted business network powered by leading Indian banks.",
   buttons: [

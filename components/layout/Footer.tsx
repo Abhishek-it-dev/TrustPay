@@ -35,7 +35,7 @@ const Footer = () => {
 
       {/* Bottom copyright */}
       <div className="text-center text-xs font-bold text-gray-200 mt-4">
-        © {new Date().getFullYear()} AssuredPay. All rights reserved.
+        © {new Date().getFullYear()} TrustPay. All rights reserved.
       </div>
     </footer>
   );

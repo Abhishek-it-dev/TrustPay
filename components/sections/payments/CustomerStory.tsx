@@ -11,7 +11,7 @@ const CustomerStory = () => {
         <div className="bg-white border border-gray-100 shadow-md rounded-lg px-6 py-6 max-w-md text-gray-700">
           <p className="italic text-sm mb-3">
             “Earlier, I spent half my month following up on payments. With
-            Assured Payment, my funds are released instantly, and I never lose
+            Trust Payment, my funds are released instantly, and I never lose
             sleep over receivables again.”
           </p>
           <p className="text-gray-600 not-italic font-medium text-sm">

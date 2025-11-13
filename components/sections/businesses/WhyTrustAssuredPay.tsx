@@ -1,7 +1,7 @@
 
 import { Landmark, BarChart3, PiggyBank, FileCheck2, Unlock } from "lucide-react";
 
-const WhyTrustAssuredPay = () => {
+const WhyTrustTrustPay = () => {
     const trustPoints = [
     {
       icon: <Landmark size={18} />,
@@ -35,7 +35,7 @@ const WhyTrustAssuredPay = () => {
       <div className="w-full max-w-5xl rounded-3xl bg-gradient-to-r from-[#3343a1] to-[#6b4ccf] text-white px-8 py-12 shadow-md">
         
         <h2 className="text-2xl text-white lg:text-3xl font-bold text-center mb-8">
-          Why Businesses Trust AssuredPay
+          Why Businesses Trust TrustPay
         </h2>
           
      
@@ -59,4 +59,4 @@ const WhyTrustAssuredPay = () => {
   );
 };
 
-export default WhyTrustAssuredPay; 
+export default WhyTrustTrustPay; 

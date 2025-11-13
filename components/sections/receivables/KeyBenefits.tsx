@@ -13,7 +13,7 @@ const KeyBenefits = () => {
       <div className="container mx-auto px-6 lg:px-20 text-center">
         {/* Heading */}
         <h2 className="text-2xl lg:text-3xl font-bold text-[#1E3A8A] mb-12">
-          Key Benefits of Assured Receivables
+          Key Benefits of Trust Receivables
         </h2>
 
         {/* Cards */}

@@ -67,7 +67,7 @@ const ExportersImporters = () => {
               
 
               <p className="italic text-[#1E3A8A] mt-4">
-                Exporters and importers choose AssuredPay for compliant, secure
+                Exporters and importers choose TrustPay for compliant, secure
                 escrow payments and faster access to cross-border funds.
               </p>
             </div>

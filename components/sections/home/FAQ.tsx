@@ -4,9 +4,9 @@ export const faqsConfig = {
   faqs: [
     {
       id: 1,
-      question: "What is AssuredPay?",
+      question: "What is TrustPay?",
       answer:
-        "AssuredPay is a digital platform offering guaranteed B2B payments and receivables designed for Indian MSMEs.",
+        "TrustPay is a digital platform offering guaranteed B2B payments and receivables designed for Indian MSMEs.",
     },
     {
       id: 2,
@@ -16,15 +16,15 @@ export const faqsConfig = {
     },
     {
       id: 3,
-      question: "Who can use AssuredPay?",
+      question: "Who can use TrustPay?",
       answer:
-        "Manufacturers, traders, distributors, wholesalers, exporters, importers, and service providers can all use AssuredPay to secure and automate their payments.",
+        "Manufacturers, traders, distributors, wholesalers, exporters, importers, and service providers can all use TrustPay to secure and automate their payments.",
     },
     {
       id: 4,
-      question: "Is AssuredPay compliant with Indian regulations?",
+      question: "Is TrustPay compliant with Indian regulations?",
       answer:
-        "Yes, AssuredPay operates under RBI-compliant escrow structures and works with regulated financial institutions.",
+        "Yes, TrustPay operates under RBI-compliant escrow structures and works with regulated financial institutions.",
     },
   ],
 };

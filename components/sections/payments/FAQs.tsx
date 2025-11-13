@@ -6,7 +6,7 @@ const FAQSection = () => {
         "No. Funds are secured in escrow and released only upon delivery confirmation.",
     },
     {
-      question: "Will buyers agree to use Assured Payment?",
+      question: "Will buyers agree to use Trust Payment?",
       answer:
         "Yes! It’s in everyone’s interest — buyers build trust and sellers gain assurance, strengthening partnerships.",
     },
@@ -20,7 +20,7 @@ const FAQSection = () => {
     <section className="bg-[#F8FAFC] py-20">
       <div className="container mx-auto px-6 lg:px-20 text-center">
         <h2 className="text-lg lg:text-xl font-semibold text-gray-800 mb-10">
-          FAQs about <span className="text-[#EA580C]">Assured Payment</span>
+          FAQs about <span className="text-[#EA580C]">Trust Payment</span>
         </h2>
 
         {/* Cards */}
