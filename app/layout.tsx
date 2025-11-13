@@ -3,7 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
-
+import {Analytics} from '@vercel/analytics/react';
 
 // import { pageRegistry } from "../config/pageRegistry";
 
@@ -39,6 +39,7 @@ export default function RootLayout({
         <Navbar />
         {children}
         <Footer/>
+        <Analytics />
       </body>
     </html>
   );
