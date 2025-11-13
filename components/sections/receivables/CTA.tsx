@@ -18,7 +18,7 @@ const CTA = () => {
         
         <p className="text-sm lg:text-base mb-6 opacity-90">
           Reduce your working capital needs, save on bank interest, and grow
-          your MSME with Assured Receivables.
+          your MSME with Trust Receivables.
         </p>
 
         {/* Buttons */}

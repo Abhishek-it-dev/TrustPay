@@ -13,12 +13,12 @@ const ReceivablesHero = () => {
         {/* Left Content */}
         <div className="lg:w-1/2 text-center lg:text-left space-y-5">
           <h1 className="text-4xl text-white lg:text-5xl font-bold">
-            Assured Receivables – Secure, Predictable Cash Flow for MSMEs
+            Trust Receivables – Secure, Predictable Cash Flow for MSMEs
           </h1>
           <p className="text-lg text-gray-200 leading-relaxed">
             Get paid, always on time.{" "}
-            <span className="font-semibold">Assured Receivables</span> by
-            AssuredPay helps Indian MSMEs secure incoming payments, reduce
+            <span className="font-semibold">Trust Receivables</span> by
+            TrustPay helps Indian MSMEs secure incoming payments, reduce
             working capital needs, and save money on interest. Experience the
             next generation of payment assurance.
           </p>

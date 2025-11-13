@@ -8,14 +8,14 @@ import {
   Gauge,
 } from "lucide-react";
 
-const HowAssuredReceivablesWork = () => {
+const HowTrustReceivablesWork = () => {
   return (
     <section className="bg-white py-24">
       <div className="container mx-auto flex flex-col lg:flex-row items-center justify-between px-6 lg:px-20 gap-16">
         {/* Left Content */}
         <div className="lg:w-1/2">
           <h2 className="text-2xl lg:text-3xl font-bold text-[#1E3A8A] mb-8">
-            Assured Receivables by AssuredPay: How It Works
+            Trust Receivables by TrustPay: How It Works
           </h2>
 
           <ul className="space-y-5 text-[#1E293B] text-base">
@@ -25,7 +25,7 @@ const HowAssuredReceivablesWork = () => {
                 <span className="font-semibold text-[#1E3A8A]">
                   Verified Receivable:
                 </span>{" "}
-                Every payment is checked and approved as “Assured Receivable” — no risk of delay or default.
+                Every payment is checked and approved as “Trust Receivable” — no risk of delay or default.
               </p>
             </li>
 
@@ -35,7 +35,7 @@ const HowAssuredReceivablesWork = () => {
                 <span className="font-semibold text-[#1E3A8A]">
                   Real-Time Dashboard:
                 </span>{" "}
-                Instantly view all upcoming assured payments and their status.
+                Instantly view all upcoming Trust payments and their status.
               </p>
             </li>
 
@@ -92,4 +92,4 @@ const HowAssuredReceivablesWork = () => {
   );
 };
 
-export default HowAssuredReceivablesWork;
+export default HowTrustReceivablesWork;

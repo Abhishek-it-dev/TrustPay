@@ -17,7 +17,7 @@ const ImpactStory = () => {
               Real Impact: Sleep “Chain Ki Neend”
             </h2>
             <p className="text-gray-700 text-sm leading-relaxed mb-2">
-              With AssuredPay’s Assured Payment feature, MSME owners can finally
+              With TrustPay’s Trust Payment feature, MSME owners can finally
               sleep peacefully — no more late-night worries about collections,
               payroll, or vendor payments.
             </p>
@@ -32,7 +32,7 @@ const ImpactStory = () => {
 
         {/* Testimonial Box */}
         <div className="bg-white shadow-sm border border-gray-100 rounded-lg max-w-xl mx-auto px-6 py-6 text-sm text-gray-700 italic text-center">
-          “Earlier, I spent half my month following up on payments. With Assured
+          “Earlier, I spent half my month following up on payments. With Trust
           Payment, my funds are released instantly, and I never lose sleep over
           receivables again.”
           <p className="text-gray-600 not-italic font-medium mt-3">

@@ -6,12 +6,12 @@ const PaymentSteps = () => {
     {
       icon: <FileText size={26} />,
       title: "1. Transaction Booking",
-      desc: "Seller and buyer record the transaction details securely on AssuredPay.",
+      desc: "Seller and buyer record the transaction details securely on TrustPay.",
     },
     {
       icon: <Banknote size={26} />,
       title: "2. Buyer Payment to Escrow",
-      desc: "Buyer deposits the payment into a secure escrow account managed by AssuredPay.",
+      desc: "Buyer deposits the payment into a secure escrow account managed by TrustPay.",
     },
     {
       icon: <ShieldCheck size={26} />,
@@ -30,7 +30,7 @@ const PaymentSteps = () => {
       <div className="container mx-auto px-6 lg:px-20 text-center">
  
         <h2 className="text-2xl lg:text-3xl font-bold text-gray-800 mb-2">
-          How <span className="text-[#EA580C]">Assured Payment</span> Works
+          How <span className="text-[#EA580C]">Trust Payment</span> Works
         </h2>
         <p className="text-sm text-gray-500 mb-12">
           The step-by-step journey from transaction booking to on-time payment settlement.

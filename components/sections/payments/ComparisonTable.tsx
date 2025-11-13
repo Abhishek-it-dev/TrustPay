@@ -4,27 +4,27 @@ const ComparisonTable = () => {
     {
       label: "Follow-ups",
       traditional: "Manual follow-ups",
-      assured: "Zero follow-ups, auto payment release",
+      Trust: "Zero follow-ups, auto payment release",
     },
     {
       label: "Delayed Payments",
       traditional: "Risk of delays",
-      assured: "On-time payment guarantee",
+      Trust: "On-time payment guarantee",
     },
     {
       label: "Cheque/Default Risk",
       traditional: "High risk",
-      assured: "No cheque or default risk",
+      Trust: "No cheque or default risk",
     },
     {
       label: "Cash Flow",
       traditional: "Unpredictable",
-      assured: "Predictable and trusted",
+      Trust: "Predictable and trusted",
     },
     {
       label: "Cost of Collections",
       traditional: "High, manual",
-      assured: "Minimal, digital process",
+      Trust: "Minimal, digital process",
     },
   ];
 
@@ -32,7 +32,7 @@ const ComparisonTable = () => {
     <section className="bg-[#F8FAFC] py-16">
       <div className="container mx-auto px-6 lg:px-20 text-center">
         <h2 className="text-2xl lg:text-3xl font-bold text-gray-800 mb-10">
-          Why <span className="text-[#EA580C]">Assured Payment</span> is Better Than Traditional Methods
+          Why <span className="text-[#EA580C]">Trust Payment</span> is Better Than Traditional Methods
         </h2>
 
         <div className="overflow-x-auto">
@@ -44,7 +44,7 @@ const ComparisonTable = () => {
                   Traditional Methods
                 </th>
                 <th className="py-3 px-4 text-left font-semibold bg-[#EA580C] text-white rounded-tr-lg rounded-tl-lg">
-                  Assured Payment by AssuredPay
+                  Trust Payment by TrustPay
                 </th>
               </tr>
             </thead>
@@ -57,7 +57,7 @@ const ComparisonTable = () => {
                   <td className="py-3 px-4 font-medium">{row.label}</td>
                   <td className="py-3 px-4">{row.traditional}</td>
                   <td className="py-3 px-4 text-[#15803D] font-medium">
-                    {row.assured}
+                    {row.Trust}
                   </td>
                 </tr>
               ))}

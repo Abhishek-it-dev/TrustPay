@@ -28,7 +28,7 @@ const BenefitsSection = () => {
     {
       icon: <Handshake size={28} />,
       title: "Trust Between Buyer & Seller",
-      desc: "AssuredPay builds confidence through transparent, milestone-based payments.",
+      desc: "TrustPay builds confidence through transparent, milestone-based payments.",
     },
     {
       icon: <BarChart3 size={28} />,
@@ -46,7 +46,7 @@ const BenefitsSection = () => {
     <section className="bg-white py-16">
       <div className="container mx-auto px-6 lg:px-20 text-center">
         <h2 className="text-2xl lg:text-3xl font-bold text-gray-800 mb-12">
-          Unique <span className="text-[#EA580C]">Benefits</span> of Assured Payment
+          Unique <span className="text-[#EA580C]">Benefits</span> of Trust Payment
         </h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">

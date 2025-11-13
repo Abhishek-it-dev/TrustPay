@@ -25,7 +25,7 @@ export const manufacturersTradersConfig = {
       description: "Real-time dashboard enables precise financial planning.",
     },
   ],
-  note: "Manufacturers and traders use AssuredPay to guarantee payments, automate collections, and optimize working capital through secure digital workflows.",
+  note: "Manufacturers and traders use TrustPay to guarantee payments, automate collections, and optimize working capital through secure digital workflows.",
 };
 
 const ManufacturersTraders = () => {

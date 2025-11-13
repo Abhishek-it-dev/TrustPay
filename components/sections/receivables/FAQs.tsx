@@ -6,7 +6,7 @@ const FAQs = () => {
       <div className="container mx-auto px-6 lg:px-20">
         
         <h3 className="text-2xl lg:text-3xl font-bold text-[#1E3A8A] text-center mb-10">
-          FAQs on Assured Receivables
+          FAQs on Trust Receivables
         </h3>
 
         
@@ -14,7 +14,7 @@ const FAQs = () => {
           {/* FAQ 1 */}
           <div>
             <p className="font-semibold text-[#1E3A8A] mb-2">
-              How are my receivables assured?
+              How are my receivables Trust?
             </p>
             <p className="text-gray-700 text-sm">
               Each receivable is escrow-backed, approved by buyer or platform,
@@ -25,7 +25,7 @@ const FAQs = () => {
           {/* FAQ 2 */}
           <div>
             <p className="font-semibold text-[#1E3A8A] mb-2">
-              Can I use assured receivables for future payments?
+              Can I use Trust receivables for future payments?
             </p>
             <p className="text-gray-700 text-sm">
               Yes, you can fund onward payments, orders, or operations using
@@ -47,7 +47,7 @@ const FAQs = () => {
           {/* FAQ 4 */}
           <div>
             <p className="font-semibold text-[#1E3A8A] mb-2">
-              Is Assured Receivables suitable for seasonal businesses?
+              Is Trust Receivables suitable for seasonal businesses?
             </p>
             <p className="text-gray-700 text-sm">
               Yes. Predictable cash flow helps you manage peaks and off-seasons

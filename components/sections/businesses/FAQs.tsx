@@ -3,15 +3,15 @@
 const FAQs = () => {
     const faqData = [
   {
-    question: "Can I use AssuredPay for advance payments to suppliers?",
+    question: "Can I use TrustPay for advance payments to suppliers?",
     answer: "Yes. Escrow ensures funds are held securely and released on delivery, reducing supplier risk."
   },
   {
-    question: "How does AssuredPay reduce my collection cost?",
+    question: "How does TrustPay reduce my collection cost?",
     answer: "Automated tracking, reminders, and secure settlements mean fewer manual follow-ups and lower admin overhead."
   },
   {
-    question: "Is AssuredPay suitable for seasonal businesses?",
+    question: "Is TrustPay suitable for seasonal businesses?",
     answer: "Yes, it offers flexibility to manage variable payment cycles efficiently."
   }
 ];

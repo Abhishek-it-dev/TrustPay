@@ -1,7 +1,7 @@
 
 import CTA from "../../../components/sections/receivables/CTA";
 import FAQs from "../../../components/sections/receivables/FAQs";
-import HowAssuredReceivablesWork from "../../../components/sections/receivables/HowAssuredReceivablesWork";
+import HowTrustReceivablesWork from "../../../components/sections/receivables/HowAssuredReceivablesWork";
 import KeyBenefits from "../../../components/sections/receivables/KeyBenefits";
 import MSMEs from "../../../components/sections/receivables/MSMEs";
 import RealLifeExample from "../../../components/sections/receivables/ReallifeExample";
@@ -16,7 +16,7 @@ export default function ReceivablesPage() {
        <ReceivalablesHero />
       <MSMEs/>
       <TraditionalReceivables/>
-      <HowAssuredReceivablesWork/>
+      <HowTrustReceivablesWork/>
       <WorkingCapitalInterestSaving/>
       <KeyBenefits/>
       <RealLifeExample/>

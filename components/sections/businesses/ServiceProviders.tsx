@@ -30,7 +30,7 @@ export const serviceProvidersConfig = {
         "Real-time status for both provider and client.",
     },
   ],
-  note: "Service providers use AssuredPay to automate billing, secure milestone payments, and maintain transparent client relationships.",
+  note: "Service providers use TrustPay to automate billing, secure milestone payments, and maintain transparent client relationships.",
 };
 
 const ServiceProviders = () => {

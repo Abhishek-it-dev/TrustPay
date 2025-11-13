@@ -13,13 +13,13 @@ const PaymentHero = () => {
         {/* Left Content */}
         <div className="max-w-lg text-left">
           <h1 className="text-3xl lg:text-4xl text-white font-bold mb-2">
-            Assured Payment
+            Trust Payment
           </h1>
           <p className="text-sm text-gray-200 mb-4">
             Never Worry About Delayed Payments Again
           </p>
           <p className="text-gray-100 text-sm leading-relaxed mb-6">
-            Say goodbye to payment delays! Assured Payment by AssuredPay ensures
+            Say goodbye to payment delays! Trust Payment by TrustPay ensures
             MSMEs get paid on time and in full through secure, escrow-backed
             transactions. Discover how payment assurance transforms business
             growth and cash flow for Indian SMEs.
@@ -44,7 +44,7 @@ const PaymentHero = () => {
 
         {/*  Image Container */}
         <div className="bg-gray-200 rounded-3xl w-[32rem] h-[24rem] flex items-center justify-center text-gray-600 text-xs shadow-sm">
-          Assured Payment
+          Trust Payment
         </div>
       </div>
 

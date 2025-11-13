@@ -2,8 +2,8 @@ export const designedForMsmesConfig = {
   sectionId: "designed-for-msmes",
   titleLeft: "Designed for Indian MSMEs",
   descriptionLeft:
-    "AssuredPay is built specifically for the unique needs of Indian MSMEs—whether you are a manufacturer, trader, wholesaler, distributor, exporter, importer, service provider, or eCommerce business. Our bank-integrated platform ensures compliance, security, and seamless fund management for all.",
-  titleRight: "Why AssuredPay is Different",
+    "TrustPay is built specifically for the unique needs of Indian MSMEs—whether you are a manufacturer, trader, wholesaler, distributor, exporter, importer, service provider, or eCommerce business. Our bank-integrated platform ensures compliance, security, and seamless fund management for all.",
+  titleRight: "Why TrustPay is Different",
   features: [
     {
       id: 1,

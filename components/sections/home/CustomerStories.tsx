@@ -4,21 +4,21 @@ export const customerStoriesConfig = {
     {
       id: 1,
       message:
-        "With AssuredPay, our receivables are always on time, and our business never faces cash flow issues.",
+        "With TrustPay, our receivables are always on time, and our business never faces cash flow issues.",
       author: "Ajay Mehta",
       role: "Textile Manufacturer",
     },
     {
       id: 2,
       message:
-        "AssuredPay helped us build trust with new partners and grow our business faster.",
+        "TrustPay helped us build trust with new partners and grow our business faster.",
       author: "Priya Bansal",
       role: "Distributor",
     },
     {
       id: 3,
       message:
-        "We now focus on growth instead of chasing payments. AssuredPay has simplified everything.",
+        "We now focus on growth instead of chasing payments. TrustPay has simplified everything.",
       author: "Ravi Sharma",
       role: "Electronics Wholesaler",
     },

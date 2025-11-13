@@ -1,9 +1,9 @@
 import { Clock, Coins, BarChart3 } from "lucide-react";
 export const msmesConfig = {
   sectionId: "msmes",
-  title: "Why MSMEs Choose AssuredPay",
+  title: "Why MSMEs Choose TrustPay",
   description:
-    "Running an MSME means dealing with unpredictable payments, manual follow-ups, and cash flow gaps. AssuredPay solves these challenges by offering guaranteed receivables, bank-grade security, and transparent fund flows.",
+    "Running an MSME means dealing with unpredictable payments, manual follow-ups, and cash flow gaps. TrustPay solves these challenges by offering guaranteed receivables, bank-grade security, and transparent fund flows.",
   cards: [
     {
       id: 1,

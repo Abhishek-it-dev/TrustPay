@@ -6,9 +6,9 @@ import {
   ArrowDown,
 } from "lucide-react";
 
-export const howAssuredPayWorksConfig = {
+export const howTrustPayWorksConfig = {
   sectionId: "how-it-works",
-  title: "How AssuredPay Works",
+  title: "How TrustPay Works",
   stepsTitle: "Steps list",
   steps: [
     {
@@ -19,12 +19,12 @@ export const howAssuredPayWorksConfig = {
     {
       id: 2,
       title: "Add Buyers and Suppliers",
-      description: "Create your trusted network and invite partners to join AssuredPay.",
+      description: "Create your trusted network and invite partners to join TrustPay.",
     },
     {
       id: 3,
-      title: "Assured Transactions Process",
-      description: "Payments are routed through AssuredPay’s escrow for guaranteed settlement.",
+      title: "Trust Transactions Process",
+      description: "Payments are routed through TrustPay’s escrow for guaranteed settlement.",
     },
     {
       id: 4,
@@ -34,8 +34,8 @@ export const howAssuredPayWorksConfig = {
   ],
 };
 
-const HowAssuredPayWorks = () => {
-  const { title, steps } = howAssuredPayWorksConfig;
+const HowTrustPayWorks = () => {
+  const { title, steps } = howTrustPayWorksConfig;
   return (
     <section className="py-16 bg-white" id="how-it-works">
       <div className="max-w-6xl mx-auto px-6">
@@ -62,7 +62,7 @@ const HowAssuredPayWorks = () => {
           {/* <div className="flex justify-center md:w-1/2">
             <Image
               src="/assets/img/illustrations/workflow.png"
-              alt="AssuredPay Workflow"
+              alt="TrustPay Workflow"
               width={400}
               height={400}
               className="rounded-md"
@@ -79,7 +79,7 @@ const HowAssuredPayWorks = () => {
 
             <div className="flex flex-col items-center">
               <ShieldCheck className="text-orange-500 mb-2" size={40} />
-              <p className="font-semibold text-gray-700">AssuredPay (Escrow)</p>
+              <p className="font-semibold text-gray-700">TrustPay (Escrow)</p>
             </div>
 
             <ArrowUp className="text-blue-600" size={30} />
@@ -97,16 +97,16 @@ const HowAssuredPayWorks = () => {
             href="/how-it-works"
             className="inline-block bg-blue-600 text-white font-semibold text-white px-8 py-3 rounded-full shadow-md hover:bg-white transition"
           >
-            See How AssuredPay Works
+            See How TrustPay Works
           </a>
           <p className="mt-2 text-gray-600 text-[1rem]">
             Learn the detailed step-by-step process and discover how
             <br className="hidden md:block" />
-            AssuredPay can simplify payments for your business.
+            TrustPay can simplify payments for your business.
           </p>
         </div>
       </div>
     </section>
   );
 }
-export default HowAssuredPayWorks;
+export default HowTrustPayWorks;

@@ -20,7 +20,7 @@ import { ShoppingBag } from "lucide-react";
     },
     {
       title: "Trust Badges",
-      description: "‘AssuredPay Secured’ badge builds brand trust and buyer confidence."
+      description: "‘TrustPay Secured’ badge builds brand trust and buyer confidence."
     }
   ]
 };
@@ -52,7 +52,7 @@ const EcommerceBusinesses = () => {
               </ul>
 
               <p className="italic text-[#3343a1] mt-4">
-                eCommerce businesses rely on AssuredPay for daily settlement assurance,
+                eCommerce businesses rely on TrustPay for daily settlement assurance,
                 seamless reconciliation, and instant payment splitting—all from one
                 digital platform.
               </p>

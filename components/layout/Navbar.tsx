@@ -12,12 +12,15 @@ const Navbar = () => {
 
   const navLinks = [
     { name: "Home", href: "/" },
-    { name: "Solutions", href: "#solutions" },
-    { name: "Products", href: "#products" },
-    { name: "Company", href: "#company" },
-    { name: "Pricing", href: "#pricing" },
-    { name: "Support", href: "#support" },
-    { name: "Legal", href: "#legal" },
+    // { name: "Solutions", href: "#solutions" },
+    { name: "Businesses", href: "/businesses" },
+    {name:"Payments", href:"/payments"},
+    { name: "Receivables", href: "/receivables" },
+    // { name: "Contact", href: "#contact" },
+    // { name: "Company", href: "#company" },
+    // { name: "Pricing", href: "#pricing" },
+    // { name: "Support", href: "#support" },
+    // { name: "Legal", href: "#legal" },
   ];
 
   // Detect scroll to change navbar background
@@ -69,14 +72,14 @@ const Navbar = () => {
           <Link href="/" className="flex items-center gap-2">
             {/* <Image
               src="/"
-              alt="AssuredPay logo"
+              alt="TrustPay logo"
               width={90}
               height={40}
               priority
               className="h-auto w-auto"
             /> */}
             <span className="text-primary font-bold text-xl lg:text-2xl tracking-wide">
-              AssuredPay
+              TrustPay
             </span>
           </Link>
 

@@ -7,7 +7,7 @@ const wholesalersDistributorsConfig = {
     {
       id: 1,
       title: "Instant Receivable Confirmation",
-      description: "Upload invoices, see assured payments and status.",
+      description: "Upload invoices, see Trust payments and status.",
     },
     {
       id: 2,
@@ -17,7 +17,7 @@ const wholesalersDistributorsConfig = {
     {
       id: 3,
       title: "Reduce Risk",
-      description: "Only transact with verified partners on AssuredPay.",
+      description: "Only transact with verified partners on TrustPay.",
     },
     {
       id: 4,
@@ -25,7 +25,7 @@ const wholesalersDistributorsConfig = {
       description: "Automated GST statements and reconciliation.",
     },
   ],
-  note: "Wholesalers and distributors can use AssuredPay to bridge cash flow gaps, ensure timely supplier payments, and strengthen retailer relationships.",
+  note: "Wholesalers and distributors can use TrustPay to bridge cash flow gaps, ensure timely supplier payments, and strengthen retailer relationships.",
 };
 
 const WholesalersDistributors = () => {

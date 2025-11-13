@@ -7,7 +7,7 @@ const WorkingCapitalInterestSaving = () => {
       <div className="container mx-auto px-6 lg:px-20">
         {/* Heading */}
         <h2 className="text-2xl lg:text-3xl font-bold text-[#1E3A8A] mb-10">
-          How Assured Receivables Help MSMEs Save on Working Capital & Interest
+          How Trust Receivables Help MSMEs Save on Working Capital & Interest
         </h2>
 
         {/* Cards */}
@@ -48,7 +48,7 @@ const WorkingCapitalInterestSaving = () => {
 
         {/*  Note */}
         <p className="text-[#FF7A00] text-md font-medium">
-          Leverage Receivables for Pre-Claim: <span className="text-[#1E3A8A]">Coming soon!</span> Get instant liquidity using upcoming assured receivables.
+          Leverage Receivables for Pre-Claim: <span className="text-[#1E3A8A]">Coming soon!</span> Get instant liquidity using upcoming Trust receivables.
         </p>
       </div>
     </section>
