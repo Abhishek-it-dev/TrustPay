@@ -5,7 +5,7 @@ import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
 
 
-import { pageRegistry } from "../config/pageRegistry";
+// import { pageRegistry } from "../config/pageRegistry";
 
 
 const geistSans = Geist({
@@ -29,8 +29,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   
-  const config = pageRegistry['/testbusinesses'];
-  if (!config) return <div>No config found for this route</div>;
+  // const config = pageRegistry['/testbusinesses'];
+  // if (!config) return <div>No config found for this route</div>;
   return (
     <html lang="en">
       <body
